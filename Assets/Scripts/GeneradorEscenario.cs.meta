@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 27c67f2504132274b9f007529a95c158
+timeCreated: 1479206390
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - casilla: {fileID: 125358, guid: da4862ec303802a4b88de7cea593279b, type: 2}
+  - casilla_obstaculo: {fileID: 156900, guid: aee4e6ea7d77da84b90a736a9121e137, type: 2}
+  - casilla_despliegue: {fileID: 179236, guid: 2d1a340b4fd7e23468eee27eea3daf93, type: 2}
+  - casilla_vacia: {fileID: 132636, guid: eef4efb62099a804ea98cde2fc42d71e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
