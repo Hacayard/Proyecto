@@ -48,11 +48,15 @@
      <Compile Include="Assets\Scripts\CameraManager.cs" />
      <Compile Include="Assets\Scripts\Casilla.cs" />
      <Compile Include="Assets\Scripts\ComportamientoPuntero.cs" />
+     <Compile Include="Assets\Scripts\Comportamiento_acciones.cs" />
      <Compile Include="Assets\Scripts\Control_turnos_IA.cs" />
      <Compile Include="Assets\Scripts\GeneradorEscenario.cs" />
      <Compile Include="Assets\Scripts\ManagerDespliegue.cs" />
      <Compile Include="Assets\Scripts\Mostrar_info.cs" />
+     <Compile Include="Assets\Scripts\Mover_Unidad.cs" />
      <Compile Include="Assets\Scripts\UnitThings.cs" />
+     <Compile Include="Assets\Scripts\despliegue.cs" />
+     <Compile Include="Assets\Scripts\inputselect.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>J:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

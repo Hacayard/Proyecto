@@ -1,13 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UnitThings.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mover_Unidad.cs">
     <Files>
-      <File FileName="Assets\Scripts\UnitThings.cs" Line="52" Column="3" />
-      <File FileName="Assets\Scripts\Mostrar_info.cs" Line="49" Column="135" />
+      <File FileName="Assets\Scripts\Mover_Unidad.cs" Line="78" Column="8" />
+      <File FileName="Assets\Scripts\GeneradorEscenario.cs" Line="32" Column="99" />
+      <File FileName="Assets\Scripts\UnitThings.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Casilla.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ComportamientoPuntero.cs" Line="25" Column="2" />
-      <File FileName="Assets\Scripts\GeneradorEscenario.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ManagerDespliegue.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\despliegue.cs" Line="55" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

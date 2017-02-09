@@ -87,16 +87,4 @@ public class ComportamientoPuntero : MonoBehaviour {
 		}
 		yield break;
 	}
-
-
-
-	void OnCollisionEnter2D (Collision2D coll){
-		if (coll.collider.gameObject.tag == "casillas")
-			coll.collider.SendMessage ("Casilla_info");
-		if (coll.collider.gameObject.tag == "enemigo")
-			coll.collider.SendMessage ("Enemigo_info");
-		if (coll.collider.gameObject.tag == "Personaje")
-			coll.collider.SendMessage ("Personaje_info");
-	}
-
 }
